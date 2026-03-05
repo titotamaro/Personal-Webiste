@@ -1,0 +1,80 @@
+Tito Tamaro
+Project & Product Manager | Agile & SAFe Certified
+Jakarta, Indonesia | (+62) 81-320-977-863 |                     tito.tamaro2@gmail.com
+LinkedIn     | Github
+PROFESSIONAL SUMMARY
+Results-oriented Project & Product Manager with over 5 years of experience delivering complex technical so-
+lutions in multinational environments. Proven track record in                            Project Planning        , Risk Management         , and
+Stakeholder Communication               within the automotive and government sectors. Experienced in leading cross-
+functional teams of up to 25 members, managing end-to-end project lifecycles from initiation to delivery. Adept
+at bridging the gap between business stakeholders and engineering teams using                                    SAFe   , Agile  , and   Waterfall
+methodologies. Committed to driving customer satisfaction and delivering value under high-pressure constraints.
+CORE COMPETENCIES
+• Project Management:            Project Planning & Scheduling, Risk Mitigation, Resource Allocation, Budget &
+Scope Management, Change Management.
+• Stakeholder Management:             Client Engagement, Cross-Functional Collaboration, Vendor Management, Ex-
+ecutive Reporting.
+• Methodologies:        Scaled Agile Framework (SAFe), Agile-Scrum, Waterfall, SDLC.
+• Technical & Tools:          Azure, Jira, Python, PowerBI, Data Analytics, MS Oﬀice Suite.
+WORK EXPERIENCE
+Berlian Sistem Informasi             (Subsidiary of Mitsubishi Corporation)                                 Jakarta, Indonesia
+Product & Project Manager                                                      Nov 2023 – Present
+• Project Leadership & Delivery:                Lead the planning and execution of strategic initiatives for Mitsubishi
+Motors Krama Yudha Sales Indonesia (MMKSI), ensuring projects are delivered on time and aligned with
+business objectives.
+• Stakeholder & Risk Management:                 Establish strong relationships with internal business units and external
+clients. Proactively identify project risks and implement mitigation strategies to ensure business continuity.
+• Resource Allocation:           Manage a cross-functional team of 25+ developers and QA engineers (AOI Division),
+eﬀiciently assigning tasks and balancing workloads to meet strict deadlines.
+• Change Management:            Drive project change management processes, balancing user requests against tech-
+nical feasibility and financial constraints.
+• Innovation:      Spearheaded the implementation of RAG (Retrieval Augmented Generation) on the EIRA
+platform in an Azure environment to enhance system performance and user accuracy.
+Xtremax                                            Bandung, Indonesia – Singapore
+Business Analyst & Engagement Manager                                                   Jan 2021 – Nov 2023
+• Client Engagement (Multinational):                  Managed high-stakes digital projects for Singaporean Government
+Agencies, acting as the primary liaison between clients and technical teams.
+• Commercial Acumen:            Managed the bid and proposal process for 20+ government tenders, demonstrating
+strong business acumen and the ability to promote project services to external clients.
+• Requirement Analysis:            Translated complex business requirements into technical specifications for SaaS
+products, ensuring MVP delivery within Agile-Scrum frameworks.
+• Process Improvement:            Conducted competitive research and implemented best practices to improve product
+features and project delivery workflows.
+Excel Metal Industry                                                 Cikarang, Indonesia
+Production Staff                                                       Oct 2018 – Mar 2020
+• Operational Excellence:            Managed production line targets and operator schedules using the SQCDM frame-
+work, ensuring high output quality and safety standards.
+NS Bluescope Indonesia                                                  Jakarta, Indonesia
+Technical Marketing Engineer                                                     Mar 2017 – Oct 2018
+• Customer Service:         Maintained customer satisfaction through technical training, product development sup-
+port, and warranty issue resolution.
+1
+----------------Page (0) Break----------------
+KEY PROJECTS
+AOI Division (MMKSI)                                                      Project Lead
+• Scope:    Provisioning and management of all digital projects for the AOI division.
+• Management:       Directed a large team of           25 members      . Managed resources, schedules, and deliverables using
+.NET, PHP, and Azure platforms.
+EIRA – AI Assistant                                                    Product Owner
+• Scope:    Development of a generative AI chat model for enterprise assistance.
+• Outcome:      Successfully led a team of 4 to deploy a GPT-4 based solution using Azure and LangChain,
+enhancing internal information retrieval.
+ACEAS – CEA Singapore                                                   Business Analyst
+• Scope:    Massive web application project for the Council for Estate Agencies (CEA) Singapore involving
+licensing and exam modules.
+• Complexity:       Collaborated with a team of              20 members       within a high-pressure government regulatory
+environment, utilizing Docker and Kubernetes.
+Sales Incentive Automation – Danone Indonesia                                               Product Owner
+• Scope:    Automated complex manual incentive calculations to reduce human error and turnaround time.
+• Business Impact:         Delivered a PowerBI dashboard that improved decision-making speed for the client.
+EDUCATION & CERTIFICATIONS
+Certifications
+• SAFe Product Owner / Product Manager                     , Scaled Agile Framework (SAFe)                    Nov 2024 – Present
+• AWS Cloud Practitioner            , Amazon Web Services                                   Sep 2021 – Present
+Education
+• Institut Teknologi Bandung (ITB)                                                  2010 – 2015
+B.S. in Materials Science and Engineering
+• Purwadhika Digital Technology School                                            Jun 2020 – Dec 2020
+Data Analysis, Visualization, Machine Learning
+2
+----------------Page (1) Break----------------

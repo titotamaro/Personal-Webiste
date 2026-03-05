@@ -1,0 +1,129 @@
+.terminal-section {
+    padding: 4rem 2rem;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.terminal-container {
+    background: rgba(255, 255, 255, 0.85);
+    border: 1px solid var(--glass-border);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1), 0 0 0 1px rgba(0, 0, 0, 0.05) inset;
+    border-radius: 12px;
+    overflow: hidden;
+    font-family: 'Consolas', 'Monaco', monospace;
+}
+
+.terminal-header {
+    background: rgba(245, 245, 245, 0.95);
+    padding: 10px 16px;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.window-controls {
+    display: flex;
+    gap: 8px;
+}
+
+.control {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+}
+
+.close {
+    background: #ff5f56;
+}
+
+.minimize {
+    background: #ffbd2e;
+}
+
+.expand {
+    background: #27c93f;
+}
+
+.terminal-title {
+    color: var(--text-secondary);
+    font-size: 0.85rem;
+    margin: 0 auto;
+    transform: translateX(-24px);
+    /* offset for controls */
+}
+
+.terminal-body {
+    padding: 1.5rem;
+    height: 300px;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.terminal-line {
+    word-wrap: break-word;
+    line-height: 1.5;
+    font-size: 0.95rem;
+}
+
+.terminal-line.system {
+    color: #555;
+}
+
+.terminal-line.user {
+    color: #111;
+}
+
+.terminal-line.error {
+    color: #ff5f56;
+}
+
+.terminal-input-form {
+    display: flex;
+    align-items: center;
+    padding: 0 1.5rem 1.5rem 1.5rem;
+    position: relative;
+}
+
+.prompt {
+    color: var(--accent-cyan);
+    margin-right: 0.75rem;
+    font-size: 0.95rem;
+    white-space: nowrap;
+}
+
+.terminal-input {
+    background: transparent;
+    border: none;
+    color: #111;
+    font-family: inherit;
+    font-size: 0.95rem;
+    flex-grow: 1;
+    outline: none;
+    padding: 0;
+}
+
+.blinking-cursor {
+    position: absolute;
+    bottom: 1.5rem;
+    left: calc(1.5rem + 75px + var(--input-width, 0px));
+}
+
+/* Custom scrollbar for terminal */
+.terminal-body::-webkit-scrollbar {
+    width: 6px;
+}
+
+.terminal-body::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.05);
+}
+
+.terminal-body::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 3px;
+}
+
+.terminal-body::-webkit-scrollbar-thumb:hover {
+    background: rgba(0, 0, 0, 0.3);
+}
