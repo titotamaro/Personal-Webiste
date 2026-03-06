@@ -20,8 +20,8 @@ const Hero = () => {
     return (
         <section id="about" className="hero-section fade-in-up">
             <div className="hero-content">
-                <div className="badge glass-panel fade-in-up delay-100">
-                    <span className="dot"></span> Available for work
+                <div className="badge glass-panel fade-in-up delay-100" style={{ fontStyle: 'italic' }}>
+                    "The best way to predict the future is to invent it." — Alan Kay
                 </div>
 
                 <h1 className="hero-title fade-in-up delay-200">
