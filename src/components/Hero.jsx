@@ -39,9 +39,9 @@ const Hero = () => {
                     <button className="btn primary-btn glass-panel text-gradient">
                         Explore Work
                     </button>
-                    <button className="btn secondary-btn">
+                    <a href="Tito_Tamaro_CV.pdf" target="_blank" rel="noopener noreferrer" className="btn secondary-btn" style={{ textDecoration: 'none', display: 'inline-flex', alignItems: 'center', justifyContent: 'center' }}>
                         View Resume
-                    </button>
+                    </a>
                 </div>
             </div>
 
